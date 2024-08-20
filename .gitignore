@@ -163,3 +163,5 @@ cython_debug/
 
 db.sqlite3
 items.json
+quotes-1.html
+quotes-2.html
